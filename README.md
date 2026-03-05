@@ -1,9 +1,13 @@
 # Heart Disease Prediction
 
-## Student
-Name: Ayesha Sumbal
+## 👨‍🎓 Student Information
+**Name**: Ayesha Sumbal
+**Semester**: 6th Semester
+**Course**: Introduction to Machine Learning
+**Submission Date**: March 10, 2026
+**GitHub**: [sumbal00001234-jpg]
+
 Assignment-I/Project-I
-Data of Submission: March 10, 2026
 
 ## Files
 - task1_scratch_practice.ipynb
