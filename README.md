@@ -16,13 +16,13 @@ Data of Submission: March 10, 2026
    pip install numpy pandas matplotlib seaborn scikit-learn
 
 2. Run Task 1:
-   python task1_scratch_practice.py
+   python task1_scratch_practice.ipynb
 
 3. Run Task 2 EDA:
-   python task2_eda_analysis.py
+   python task2_eda_analysis.ipynb
 
 4. Run Task 2 Model:
-   python task2_linear_regression_model.py
+   python task2_linear_regression_model.ipynb
 
 ## Results
 Task 1 R-squared: 0.92
