@@ -2,12 +2,13 @@
 
 ## Student
 Name: Ayesha Sumbal
-Date: March 10, 2026
+Assignment-I/Project-I
+Data of Submission: March 10, 2026
 
 ## Files
-- task1_scratch_practice.py
-- task2_eda_analysis.py
-- task2_linear_regression_model.py
+- task1_scratch_practice.ipynb
+- task2_eda_analysis.ipynb
+- task2_linear_regression_model.ipynb
 - heart.csv
 
 ## How to Run
