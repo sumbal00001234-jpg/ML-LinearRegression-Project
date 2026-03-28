@@ -7,7 +7,7 @@
 **Submission Date**: March 10, 2026
 **GitHub**: [sumbal00001234-jpg]
 
-Assignment-I/Project-I
+## Assignment-I/Project-I
 
 ## Files
 - task1_scratch_practice.ipynb
